@@ -1,7 +1,7 @@
 - ### iOS
 
 1. [iOS 的动态化](https://www.jianshu.com/p/850c8bb0acc6)
-2. [iOS多线程技术 （NSThread，NSOperation，GCD）](http://www.cocoachina.com/ios/20160804/17291.htm)
+2. [iOS多线程技术 （NSThread，NSOperation，GCD）](http://www.cocoachina.com/ios/20160804/17291.html)
 3. [ 《招聘一个靠谱的 iOS》面试题](https://github.com/ChenYilong/iOSInterviewQuestions)
 4. [ iOS编译过程的原理和应用](http://blog.csdn.net/hello_hwc/article/details/53557308)
 5. [socket 的详细讲解](http://www.cocoachina.com/ios/20160602/16572.html)
