@@ -1,4 +1,3 @@
-## iOS
 
 1. [iOS 的动态化](https://www.jianshu.com/p/850c8bb0acc6)
 2. [iOS多线程技术 （NSThread，NSOperation，GCD）](http://www.cocoachina.com/ios/20160804/17291.html)
