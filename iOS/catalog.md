@@ -10,6 +10,7 @@
 8. [runtime入门系列之——方法替换](http://www.jianshu.com/p/d7818dcb21de)
 9. [深入剖析 iOS 编译 Clang LLVM](https://github.com/ming1016/study/wiki/%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90-iOS-%E7%BC%96%E8%AF%91-Clang---LLVM)
 10. [block作为类的属性时用copy](https://www.jianshu.com/p/1f604e94cad4)
+11. [iOS 有哪些值得长期关注的网站？](/iOS/collect.md)
 
 
 - ### Java
